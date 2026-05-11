@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PujaSingh18
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me
 
